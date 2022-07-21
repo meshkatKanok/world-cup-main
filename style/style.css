@@ -250,7 +250,7 @@ i {
 
 
 /*-------------
- Footer part 
+ Footer part  start
  ------------------------*/
 footer {
     padding: 0px 0px;
@@ -387,6 +387,10 @@ UPComming Match Part css Start
 .match-info img {
     width: 100%;
 }
+
+/* ------------
+UPComming Match Part css ENd--------
+--------------------------------- */
 
 
 /* Animation part------------- */
@@ -579,6 +583,8 @@ BAnner Part start--
  -------------------------------------- */
 
 @media only screen and (max-width: 480px) {
+
+/*----------------------- banner start ---------------------------------*/
     .banner-part {
         width:334px;
         height:598px;
@@ -698,6 +704,7 @@ BAnner Part start--
         margin-right: 56px;
 
     }
+     /* Footer-------ENDS------------------ */
 
     /* ------------------------------------------------------------------
    Upcomming match Blogs post
